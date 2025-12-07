@@ -3,6 +3,6 @@ def add(a, b):
 
 
 if __name__ == "__main__":
-    x = 5
+    x = 10
     y = 7
     print("Sum is:", add(x, y))
